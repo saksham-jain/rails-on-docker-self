@@ -1,0 +1,8 @@
+I, [2021-09-09T14:10:40.471165 #1]  INFO -- : [e37f779f-64a9-45d3-bb7c-a029c0805f81] Started GET "/" for 172.26.0.1 at 2021-09-09 14:10:40 +0000
+F, [2021-09-09T14:10:40.471608 #1] FATAL -- : [e37f779f-64a9-45d3-bb7c-a029c0805f81]   
+[e37f779f-64a9-45d3-bb7c-a029c0805f81] ActionController::RoutingError (No route matches [GET] "/"):
+[e37f779f-64a9-45d3-bb7c-a029c0805f81]   
+I, [2021-09-09T14:11:28.900291 #1]  INFO -- : [f082ad65-46d2-4e4c-a9b0-09c10ef9496b] Started GET "/" for 172.26.0.1 at 2021-09-09 14:11:28 +0000
+F, [2021-09-09T14:11:28.901442 #1] FATAL -- : [f082ad65-46d2-4e4c-a9b0-09c10ef9496b]   
+[f082ad65-46d2-4e4c-a9b0-09c10ef9496b] ActionController::RoutingError (No route matches [GET] "/"):
+[f082ad65-46d2-4e4c-a9b0-09c10ef9496b]   
